@@ -1,0 +1,14 @@
+{
+  "name": "micro8-emulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spaceboy Ross",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "z80js": "^0.9.4"
+  }
+}
